@@ -1,0 +1,23 @@
+{
+  "name": "date",
+  "version": "1.0.0",
+  "description": "This will display the date",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwave317/date_facts.git"
+  },
+  "author": "Ken Coppola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwave317/date_facts/issues"
+  },
+  "homepage": "https://github.com/mwave317/date_facts#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1"
+  }
+}
